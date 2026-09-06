@@ -34,7 +34,7 @@ The alarm holds through the mid-degradation dip where the initial spall wears sm
 
 ## Files
 
-- `bearing-failure-detection.ipynb` — full analysis, checks and detector
+- [`bearing-failure-detection.ipynb`](bearing-failure-detection.ipynb) — full analysis, checks and detector
 
 ## Data
 
